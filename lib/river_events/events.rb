@@ -1,0 +1,3 @@
+class RiverEvents::Events
+
+end
