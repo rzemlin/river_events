@@ -1,0 +1,17 @@
+get user input for month
+make sure valid input
+make classes (cli, scraper, events)
+get data from web
+store data in array/hash
+return data to user
+option select multiple months
+exit
+
+return data to user for specified month
+ask to search again or end
+
+
+flow in terms of user
+user starts app, prompted to select a month, user choses a month
+scrape data for selected month and return event for chosen month
+user can select event from list and it will show info for that event
